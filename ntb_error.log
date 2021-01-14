@@ -1,0 +1,293 @@
+
+Wednesday, August 19th, 2020 - 16:21:57 pm [Error]: 
+Wednesday, August 19th, 2020 - 16:21:57 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Wednesday, August 19th, 2020 - 16:22:40 pm [Error]: 
+Wednesday, August 19th, 2020 - 16:22:40 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Wednesday, August 19th, 2020 - 17:07:46 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Wednesday, August 19th, 2020 - 17:08:21 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('directorate tab...', 'ID', '1')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Wednesday, August 19th, 2020 - 17:11:57 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Wednesday, August 19th, 2020 - 17:12:59 pm [Error]: Error: Call to undefined method mysqli::quey() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+Thursday, August 20th, 2020 - 21:17:52 pm/NTB%20Databse/relationship.php [Error]: 1
+Thursday, August 20th, 2020 - 21:18:42 pm File(/NTB%20Databse/relationship.php)  [Error]: 1
+File(/NTB%20Databse/relationship.php) Thursday, August 20th, 2020 - 21:29:45 pm [Error]: 1
+Thursday, August 20th, 2020 - 21:30:55 pm [Error]: 1
+File(/NTB%20Databse/relationship.php)Thursday, August 20th, 2020 - 21:31:42 pm [Error]: 1 File(/NTB%20Databse/relationship.php)
+Thursday, August 20th, 2020 - 21:32:14 pm [Error]: 1 File(/NTB%20Databse/relationship.php)
+Thursday, August 20th, 2020 - 21:44:57 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:48:12 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:48:42 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:52:46 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:55:52 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:56:39 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:57:03 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 21:57:55 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:02:14 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:04:35 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:05:08 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:05:31 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:08:52 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:09:53 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:10:25 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:12:11 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('employees table', 'ID', '6')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=employees%20table&deletekey=6)
+Thursday, August 20th, 2020 - 22:12:59 pm [Error]: Error: Call to undefined method mysqli::qury() in C:\xampp\htdocs\NTB Databse\database.php:112
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openDB.php(35): delvalues('sbu/csu table', 'ID', '11')
+#1 C:\xampp\htdocs\NTB Databse\database.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/database.php?document=delete&database=sbu/csu%20table&deletekey=11)
+Thursday, August 20th, 2020 - 22:20:35 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, August 20th, 2020 - 22:20:35 pm [Error]: Error: Call to undefined method mysqli::prpare() in C:\xampp\htdocs\NTB Databse\uploadData.php:183
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(22): addRecord4('employees table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, August 20th, 2020 - 22:25:09 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, August 20th, 2020 - 22:25:09 pm [Error]: Error: Call to undefined method mysqli::prpare() in C:\xampp\htdocs\NTB Databse\uploadData.php:183
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(22): addRecord4('employees table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Sunday, August 30th, 2020 - 13:32:48 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:33:10 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:33:25 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:33:44 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:34:04 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:34:15 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:34:42 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:34:44 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:35:20 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:35:29 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:35:37 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:35:45 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Sunday, August 30th, 2020 - 13:35:55 pm [Error]: Incorrect table name '' File(/NTB%20Databse/database.php?document=table1)
+Saturday, September 5th, 2020 - 23:33:47 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:33:47 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:33:52 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:33:52 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:24 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:24 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:25 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:25 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:26 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:26 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:26 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, September 5th, 2020 - 23:37:27 pm [Error]: Error: Call to undefined method mysqli::prepre() in C:\xampp\htdocs\NTB Databse\uploadData.php:49
+Stack trace:
+#0 C:\xampp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xampp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xampp\\htdocs...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 12:03:44 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 12:03:44 pm [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:158
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(19): addRecord3('sbu/csu table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 12:03:49 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 12:03:49 pm [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:158
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(19): addRecord3('sbu/csu table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 13:11:42 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 13:11:42 pm [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 13:11:44 pm [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Saturday, October 17th, 2020 - 13:11:44 pm [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:22 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:22 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:25 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:25 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:26 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:27 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:27 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:28 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:30 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:33 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:33 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:34 am [Error]: 0  File(/NTB%20Databse/uploadData.php)
+Thursday, December 17th, 2020 - 11:16:34 am [Error]: Error: Call to a member function bind_param() on boolean in C:\xamppp\htdocs\NTB Databse\uploadData.php:50
+Stack trace:
+#0 C:\xamppp\htdocs\NTB Databse\openUploadDB.php(13): addRecord('directive table')
+#1 C:\xamppp\htdocs\NTB Databse\uploadData.php(3): require('C:\\xamppp\\htdoc...')
+#2 {main} File(/NTB%20Databse/uploadData.php)

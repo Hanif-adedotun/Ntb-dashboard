@@ -1,0 +1,88 @@
+<html>
+
+<head>
+<title>UI NTB Database </title>
+<script type = "text/javascript" src="javascript/AjaxLibrary/downloadHTML.js" ></script>
+<script type = "text/javascript" src="javascript/jquery-3.3.1.js" ></script>
+<link rel="stylesheet" href="css/ntb_ui.css" type="text/css"/>
+</head>
+
+<body>
+    <h1>NTB Database</h1>
+    <p id='showtime'>Time</p>
+    
+
+    <!-- <label>Show Directive table</label> -->
+<div class='container'>
+    <div class='onoffswitch'>
+        <input type="checkbox" name="onoffswitch" class="onoffswitch-checkbox" id='myonoffswitch' tabindex='0'>
+            <label class="onoffswitch-label" for="myonoffswitch">
+                <span class='onoffswitch-inner'></span>
+                <span class='onoffswitch-switch'></span>
+            </label>
+    </div>
+</div>
+
+    <button id="open-modal" >Add to Database</button>
+
+    <!-- The Modal -->
+    <div id='addModal' class='modal'>
+        <!-- Modal Content -->
+        <div class="modal-content">
+
+            <!-- Head of the modal -->
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Add to Directive Table</h2>
+            </div>
+
+            <!-- Body of the Modal -->
+            <div class="modal-body">
+                <form method="POST" id="add-to-database-form">
+                    <label for="description">Directive Description</label>
+                        <input id='description' class="input-directive" type="text" placeholder="Directive Description" name="description"/>
+
+                    <label for='sbuOptions'>Action Party</label><!--onblur='alertDOM(document.getElementById("NewTableresult"), this.className)'-->
+                        <select class='addval input-directive' id='sbuOptions'  name="party">
+                            <option value="">SBU/CSU Options:</option>
+                        </select>
+                    
+                    <label for='directiveDate'>Directive Date</label>
+                        <input id='directiveDate' class="input-directive" type="date" placeholder="dd-mm-yyyy" name="directiveDate"/>
+
+                    <label for='meetingNumber'>NTB Meeting Number</label>
+                        <input id='meetingNumber' class="input-directive" type="number" placeholder="Meeting Number" name="meetingNumber"/>
+
+                    <label for='directiveDeadline'>Directive Deadline</label>
+                        <input id='directiveDeadline' class="input-directive" type="date" placeholder="dd-mm-yyyy" name="directiveDeadline"/>
+                    
+                    <label for='revertDate'>Revert Date</label>
+                        <input id='revertDate' class="input-directive" type="date" placeholder="dd-mm-yyyy" name="revertDate"/>
+
+                    <label for='remark'>Remark</label>
+                        <input id='remark' class="input-directive" type="text" placeholder="Remark" name="remark"/>
+
+                    <label for='status'>Status Update</label>
+                        <input id='status' class="input-directive" type="text" placeholder="Status Update" name="status"/>
+
+                    <input type="submit" name="submit" onclick="return false;" id="submit"/>
+                </form>
+            </div>
+            <!-- Footer of the Modal -->
+            <div class="modal-footer">
+                <p>&copy; Voltex Designs</p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+<footer class="footer">
+    <p class="foot_text" id='foot_text_id'>&copy; Voltex Designs </p>
+</footer>
+
+</body>
+
+<script type = "text/javascript" src="javascript/ntb_ui.js" ></script>
+</html>
